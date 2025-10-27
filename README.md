@@ -17,7 +17,6 @@
 ### 🧠 Tech Stack
 - **Languages:** Python, C/C++, MATLAB, Octave  
 - **Machine Learning:** TensorFlow, Keras, XGBoost  
-- **Tools:** Git, VS Code, Linux, Canva Pro  
 - **Domains:** Data Science, Numerical Simulation, Signal Processing, Optimization  
 
 ---
@@ -32,13 +31,8 @@
 ---
 
 ### 📫 Contact Me
-- ✉️ Email: **yassinebenmsarra@gmail.com**  
+- ✉️ Email: **yassine.ben-msarra@ensta-paris.fr**  
 - 💼 LinkedIn: [linkedin.com/in/yassine-ben-msarra](https://linkedin.com/in/yassine-ben-msarra)  
-- 🌐 Portfolio (coming soon!)
-
----
-
-> “The future belongs to those who blend intelligence with creativity.”  
 
 ---
 
