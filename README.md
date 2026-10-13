@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 📚 Currently in my **second year of engineering at ENSTA**  
+- 📚 Currently in my **third year of engineering at ENSTA**  
 - 💻 Learning more about **machine learning**, **deep learning**  
 - ⚙️ I enjoy working on **numerical simulations**, **ML algorithms**, and **optimization problems**  
 - 🎯 My goal: to use **AI for innovation in healthcare and education**
