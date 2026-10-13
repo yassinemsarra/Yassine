@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yassine Ben Msarra
 
-🎓 **Second-Year Engineering Student @ ENSTA**  
+🎓 **Third-Year Engineering Student @ ENSTA**  
 💡 Passionate about **Artificial Intelligence**, **Data Science**, and **Emerging Technologies**
 
 ---
